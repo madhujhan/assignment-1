@@ -1,6 +1,4 @@
-# Project Title
-
-Polygon Proof of Stake
+# Polygon Proof of Stake
 
 ## Description
 
@@ -68,11 +66,6 @@ After successful Mapping you will get a `child address` also known as `fxPortalB
 ```
 node batchTransfer.js
 ```
-
-
-## Author 
-
-Anandu Singh
 
 ## License
 
